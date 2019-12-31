@@ -33,3 +33,7 @@ p{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+#featured img{
+  border: 5px rgb(152,173,166) solid;
+}
