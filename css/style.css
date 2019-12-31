@@ -19,10 +19,6 @@ body {
 
 /* Write all remaining styles here */
 
-h1, h2, h3, h4 {
-  color: #6F7F7A;
-}
-
 p{
     color: #555;
     font-size: 1em;
